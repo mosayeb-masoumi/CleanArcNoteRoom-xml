@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CleanRoomTest</string>
+    <string name="content">content</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="enter_title">enter title</string>
+    <string name="enter_description">enter description</string>
+    <string name="enter_age">enter age</string>
+</resources>
